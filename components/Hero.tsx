@@ -38,7 +38,7 @@ export default function Hero() {
 
           <div className="flex flex-col sm:flex-row flex-wrap gap-4 mt-10">
             <a
-              href="https://wa.me/628123456789"
+              href="https://wa.me/6285895341572"
               className="bg-green-600 hover:bg-green-700 transition-all duration-300 text-white px-6 sm:px-8 py-4 rounded-full shadow-2xl hover:scale-105 text-center"
             >
               Order Sekarang
