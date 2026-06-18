@@ -165,7 +165,7 @@ export default function Navbar() {
             </a>
 
             <a
-              href="https://wa.me/6281216936993?text=Halo%20OmahSelada%20🌱%20Saya%20ingin%20memesan%20produk%20selada."
+              href="https://wa.me/6285895341572?text=Halo%20OmahSelada%20🌱%20Saya%20ingin%20memesan%20produk%20selada."
               target="_blank"
               className="
                 bg-green-600
