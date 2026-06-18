@@ -82,7 +82,7 @@ export default function Navbar() {
 
           <a
             href="
-  https://wa.me/6281216936993?text=Halo%20OmahSelada%20🌱%0A%0ASaya%20tertarik%20untuk%20membeli%20produk%20selada%20hidroponik.%0A%0ABerikut%20detail%20pesanan%20saya:%0A%0ANama%20:%0AAlamat%20:%0AProduk%20:%0AJumlah%20:%0A%0AMohon%20informasi%20mengenai%20harga%20dan%20ketersediaannya.%0A%0ATerima%20kasih%20🙏
+  https://wa.me/6285895341572?text=Halo%20OmahSelada%20🌱%0A%0ASaya%20tertarik%20untuk%20membeli%20produk%20selada%20hidroponik.%0A%0ABerikut%20detail%20pesanan%20saya:%0A%0ANama%20:%0AAlamat%20:%0AProduk%20:%0AJumlah%20:%0A%0AMohon%20informasi%20mengenai%20harga%20dan%20ketersediaannya.%0A%0ATerima%20kasih%20🙏
   "
             target="_blank"
             className="
