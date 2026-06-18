@@ -38,7 +38,8 @@ export default function Hero() {
 
           <div className="flex flex-col sm:flex-row flex-wrap gap-4 mt-10">
             <a
-              href="https://wa.me/6285895341572"
+              https://wa.me/6285895341572?text=Halo%20OmahSelada%20🌱%0A%0ASaya%20tertarik%20untuk%20membeli%20produk%20selada%20hidroponik.%0A%0ABerikut%20detail%20pesanan%20saya:%0A%0ANama%20:%0AAlamat%20:%0AProduk%20:%0AJumlah%20:%0A%0AMohon%20informasi%20mengenai%20harga%20dan%20ketersediaannya.%0A%0ATerima%20kasih%20🙏
+  "
               className="bg-green-600 hover:bg-green-700 transition-all duration-300 text-white px-6 sm:px-8 py-4 rounded-full shadow-2xl hover:scale-105 text-center"
             >
               Order Sekarang
