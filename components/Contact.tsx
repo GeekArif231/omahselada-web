@@ -12,7 +12,7 @@ export default function Contact() {
 
         <div className="mt-10 flex flex-col gap-4">
           <a
-            href="https://wa.me/6281216936993"
+            href="https://wa.me/6285895341572"
             className="bg-green-600 text-white px-8 py-4 rounded-full inline-block mx-auto"
           >
             WhatsApp
