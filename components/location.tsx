@@ -57,7 +57,7 @@ export default function Location() {
 
               <p>🕒 Setiap hari 08.00 - 17.00</p>
 
-              <p>📱 WhatsApp: 081216936993</p>
+              <p>📱 WhatsApp: 085895341572</p>
             </div>
 
             <a
